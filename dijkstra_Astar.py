@@ -1,4 +1,4 @@
-#NIKOS KARIOTIS 3243
+#NIKOS KARIOTIS
 
 import math
 import sys
